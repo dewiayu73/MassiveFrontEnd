@@ -1,5 +1,5 @@
 import React from 'react'
-import FeatureImage from '../assets/img/Feature3.png'
+import FeatureImage from '../assets/img/feature3.png'
 import featureIcon from '../assets/img/feature4.png'
 
 const Feature3 = () => {
